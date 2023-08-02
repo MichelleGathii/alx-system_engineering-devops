@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -X --group-directories-first | sed 's/$/,/' | tr -d '\n' && echo
+ls -avmp
