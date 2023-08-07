@@ -1,0 +1,26 @@
+total 96
+drwxr-xr-x 2 githere githere 4096 Aug  8 00:00 .
+drwxr-xr-x 6 githere githere 4096 Aug  7 17:51 ..
+-rwxr--r-- 1 githere githere   30 Aug  7 17:49 0-hello_world
+-rwxr--r-- 1 githere githere   54 Aug  7 23:40 10-no_more_js
+-rwxr--r-- 1 githere githere   19 Aug  7 22:01 11-directories
+-rwxr--r-- 1 githere githere   26 Aug  7 22:06 12-newest_files
+-rwxr--r-- 1 githere githere   35 Aug  7 22:20 14-findthatword
+-rwxr--r-- 1 githere githere   41 Aug  7 22:25 15-countthatword
+-rwxr--r-- 1 githere githere   45 Aug  7 22:30 16-whatsnext
+-rwxr--r-- 1 githere githere   34 Aug  7 22:41 17-hidethisword
+-rwxr--r-- 1 githere githere   25 Aug  7 23:01 19-AZ
+-rwxr--r-- 1 githere githere   29 Aug  7 23:50 1-confused_smiley
+-rwxr--r-- 1 githere githere   23 Aug  7 23:06 20-hiago
+-rwxr--r-- 1 githere githere   17 Aug  7 23:10 21-reverse
+-rwxr--r-- 1 githere githere   37 Aug  7 23:17 22-users_and_homes
+-rwxr--r-- 1 githere githere   28 Aug  7 21:32 2-hellofile
+-rwxr--r-- 1 githere githere   39 Aug  7 21:35 3-twofiles
+-rwxr--r-- 1 githere githere   29 Aug  7 21:38 4-lastlines
+-rwxr--r-- 1 githere githere   29 Aug  7 21:40 5-firstlines
+-rwxr--r-- 1 githere githere   36 Aug  7 21:42 6-third_line
+-rwxr--r-- 1 githere githere  103 Aug  7 23:56 7-file
+-rwxr--r-- 1 githere githere   36 Aug  8 00:00 8-cwd_content
+-rwxr--r-- 1 githere githere   37 Aug  7 23:28 9-duplicate_last_line
+-rw-r--r-- 1 githere githere    0 Aug  8 00:00 ls_cwd_content
+-rw-r--r-- 1 githere githere   41 Aug  7 17:55 README.md
